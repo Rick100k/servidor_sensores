@@ -35,7 +35,7 @@ def getArguments(path):
                         s2= query_components['sensor2']
                 except:
                         pass
-                print s1,s2
+                print (s1,s2)
                 #print s2
                 #imsi = query_components["imsi"]
         except:
